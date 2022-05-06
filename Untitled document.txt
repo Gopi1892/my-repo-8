@@ -1,4 +1,6 @@
 ﻿ARM TEMPLATE
+ arm template 2
+ arm template 3
 
 
 3 TYPES OF SERVICES
